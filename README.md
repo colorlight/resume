@@ -30,7 +30,7 @@
 - 了解面向对象编程思想，对常见设计模式有一定的理解，并且能够用JavaScript实现部分常用设计模式，例如发布-订阅模式。
 - 掌握Vue框架，对Vue的组件原理有一定的了解。掌握JQuery与BootStrap，能够使用框架进行Web应用开发。
 - 了解常见的前端性能优化方法。
-###后端
+### 后端
 - 了解Node.js的原理，能使用Node.js进行C/C++和JavaScript的联合开发，了解koa框架，能够使用koa框架进行Web开发，了解Node中的多进程技术。
 - 了解linux操作系统，有Ubuntu，CentOS, Debian的使用经验。熟悉常用linux命令，能够编写简单的shell脚本，熟练掌握http代理设置，socket5代理设置，vpn设置，和iptables设置，route表设置。能够搭建pptp vpn服务器，以及socket5代理服务器。
 - 了解mysql，能够使用Node中的ORM框架Sequelize来操作数据库。
